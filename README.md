@@ -1,5 +1,5 @@
 # C:/Users/KajazBlade
 It's me lol
 i'm programming on
-- lua![[./lua.svg]]
-- React - TS![[./react-typescript.svg]]
+- lua<![alt](./lua.svg)>
+- React - TS<![alt](./react-typescript.svg)>
